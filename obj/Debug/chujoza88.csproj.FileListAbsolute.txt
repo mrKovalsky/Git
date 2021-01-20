@@ -1,0 +1,7 @@
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\bin\Debug\chujoza88.exe.config
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\bin\Debug\chujoza88.exe
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\bin\Debug\chujoza88.pdb
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\obj\Debug\chujoza88.csprojAssemblyReference.cache
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\obj\Debug\chujoza88.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\obj\Debug\chujoza88.exe
+C:\Users\Lenovo M910s\Desktop\git\chujoza88\obj\Debug\chujoza88.pdb
